@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/lab509/miniconda3/envs/painting/bin/python",
+    "python.formatting.provider": "autopep8"
+}
